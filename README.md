@@ -65,11 +65,12 @@ Available at [https://arxiv.org/abs/2209.11144](https://arxiv.org/abs/2209.11144
 
 ### Internal members 
 
-- Alessandra Di Pierro (alessandra.dipierro@univr.it)
-- Claudia Daffara
-- [Nicola Assolini](https://nicolaassolini98.github.io/)
-- Andrea Masini
-- Margherita Zorzi
+- Alessandra Di Pierro (Prof - alessandra.dipierro@univr.it)
+- Claudia Daffara (Prof)
+- [Nicola Assolini](https://nicolaassolini98.github.io/) (PhD)
+- Andrea Masini (Prof)
+- Margherita Zorzi (Prof)
+- Linda Zampieri (PhD)
 
 ### External members
 
