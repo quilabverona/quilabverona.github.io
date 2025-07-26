@@ -79,7 +79,7 @@ Available at [https://arxiv.org/abs/2209.11144](https://arxiv.org/abs/2209.11144
 - David Windridge
 - Minh Ha Quang
 - Davide Pastorello
-- Giuseppe Serra
+  
 
 ### Former members
 
