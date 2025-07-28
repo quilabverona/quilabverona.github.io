@@ -21,7 +21,8 @@ quantum languages, and quantum software development.
 
 ### 2025
 1. Assolini N., Di Pierro A., Mastroeni I. *A Static Analysis of Entanglement*, doi: [https://doi.org/10.1007/978-3-031-82703-7_3](https://doi.org/10.1007/978-3-031-82703-7_3)
-  
+2. Nicola Assolini and Alessandra Di Pierro. A Denotational Semantics for Quantum Loops. 2025. arXiv: 2506 . 23320 [cs.PL]. Available at [https://arxiv.org/abs/2506.23320](https://arxiv.org/abs/2506.23320).
+
 ### 2024
 1. Hoffmann M., ..., Di Pierro, A., Baumbach, J., List, M., Blumenthal, DB. *Network medicine-based epistasis detection in complex diseases: ready for quantum computing (2023)*. Available at [https://www.medrxiv.org/content/10.1101/2023.11.07.23298205v1](https://www.medrxiv.org/content/10.1101/2023.11.07.23298205v1)
 2. Incudini M., Lizzio Bosco, D., Martini, M., Grossi, M., Serra, G., Di Pierro, A. *Automatic and effective discovery of quantum kernels* (2023)
