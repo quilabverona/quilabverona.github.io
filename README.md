@@ -72,6 +72,7 @@ Available at [https://arxiv.org/abs/2209.11144](https://arxiv.org/abs/2209.11144
 - Alessandra Di Pierro (Prof - alessandra.dipierro@univr.it)
 - Claudia Daffara (Prof)
 - [Nicola Assolini](https://nicolaassolini98.github.io/) (PhD)
+- Manuel Padovani (Researcher)
 - Andrea Masini (Prof)
 - Margherita Zorzi (Prof)
 - Linda Zampieri (PhD)
