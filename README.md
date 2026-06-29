@@ -20,10 +20,11 @@ quantum programming languages, and quantum software development.
 ## Publications  
 
 ### 2026
-1. Nicola Assolini, Alessandra Di Pierro, Isabella Mastroeni. *Challenges in Quantum Programs Analysis*, International Journal on Software Tools for Technology Transfer, doi: [https://doi.org/10.1007/s10009-026-00845-1}](https://doi.org/10.1007/s10009-026-00845-1}), eprint: [https://rdcu.be/e80px](https://rdcu.be/e80px).
+1. Nicola Assolini, Alessandra Di Pierro, Isabella Mastroeni. *Challenges in Quantum Programs Analysis*, International Journal on Software Tools for Technology Transfer, doi: [https://doi.org/10.1007/s10009-026-00845-1}](https://doi.org/10.1007/s10009-026-00845-1), eprint: [https://rdcu.be/e80px](https://rdcu.be/e80px). 
+2. Francesco Martini, Daniele Lizzio Bosco, Carlo Barbanera, Serena Bernardini, Giacomo Ranieri, Francesca Cibrario, Davide Corbelletto, Giuseppe Bruno, Alessandra Di Pierro, and Luca Dellantonio. *Securities Transaction Settlement Optimization on superconducting quantum devices*. Journal of Economic Dynamics and Control, [arXiv:2501.08794](https://arxiv.org/html/2501.08794v1)
 
 ### 2025
-1. Nicola Assolini, Alessandra Di Pierro, Isabella Mastroeni. *A Static Analysis of Entanglement*, doi: [https://doi.org/10.1007/978-3-031-82703-7_3](https://doi.org/10.1007/978-3-031-82703-7_3)
+1. Nicola Assolini, Alessandra Di Pierro, Isabella Mastroeni. *A Static Analysis of Entanglement*, VMCAI 2025, doi: [https://doi.org/10.1007/978-3-031-82703-7_3](https://doi.org/10.1007/978-3-031-82703-7_3)
 2. Nicola Assolini and Alessandra Di Pierro. A Denotational Semantics for Quantum Loops. 2025. arXiv: 2506.23320 [cs.PL]. Available at [https://arxiv.org/abs/2506.23320](https://arxiv.org/abs/2506.23320).
 3. Nicola Assolini and Luca Marzari and Isabella Mastroeni and Alessandra di Pierro. Formal Verification of Variational Quantum Circuits. 2025. arXiv: 2507.10635 [quant-ph]. Available at [https://arxiv.org/abs/2507.10635](https://arxiv.org/abs/2507.10635).
 4. Francesco Martini, Daniele Lizzio Bosco, Carlo Barbanera, Serena Bernardini, Giacomo Ranieri, Francesca Cibrario, Davide Corbelletto, Giuseppe Bruno, Alessandra Di Pierro, Luca Dellantonio}. Securities Transaction Settlement Optimization on superconducting quantum devices. 2025. arXiv:2501.08794.
