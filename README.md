@@ -19,6 +19,9 @@ quantum programming languages, and quantum software development.
 
 ## Publications  
 
+### 2026
+1. Nicola Assolini, Alessandra Di Pierro, Isabella Mastroeni. *Challenges in Quantum Programs Analysis*, International Journal on Software Tools for Technology Transfer, doi: [https://doi.org/10.1007/s10009-026-00845-1}](https://doi.org/10.1007/s10009-026-00845-1}), eprint: [https://rdcu.be/e80px](https://rdcu.be/e80px).
+
 ### 2025
 1. Nicola Assolini, Alessandra Di Pierro, Isabella Mastroeni. *A Static Analysis of Entanglement*, doi: [https://doi.org/10.1007/978-3-031-82703-7_3](https://doi.org/10.1007/978-3-031-82703-7_3)
 2. Nicola Assolini and Alessandra Di Pierro. A Denotational Semantics for Quantum Loops. 2025. arXiv: 2506.23320 [cs.PL]. Available at [https://arxiv.org/abs/2506.23320](https://arxiv.org/abs/2506.23320).
