@@ -15,7 +15,7 @@ quantum programming languages, and quantum software development.
 3. [Events](#events)
 4. [Contact](#contact)
 
-| ![](icons/lambda.png)                             | ![](/icons/sw-dev-old.png)            | ![](icons/kernel_trick.png)                                            | ![](icons/ml.png) |
+| ![](icons/lambda.png)                             | ![](/sw.png)            | ![](icons/kernel_trick.png)                                            | ![](/icons/ml.png) |
 |--------------------------------|---------------------|------------------------------------| ----------------------------------- |
 | [Quantum Languages & Semantics](#anchor_qlang) | [Quantum Software Development](#anchor_qlogic) | [Quantum Machine Learning & Applications](#anchor_qml) | [Quantum optimization & Applications](#anchor_qopt) |
 
