@@ -15,7 +15,7 @@ quantum programming languages, and quantum software development.
 3. [Events](#events)
 4. [Contact](#contact)
 
-| ![](icons/lambda.png)                             | ![](/sw.png)            | ![](icons/kernel_trick.png)                                            | ![](/icons/ml.png) |
+| ![](icons/lambda.png)                             | ![](/icons/sw.png)            | ![](icons/kernel_trick.png)                                            | ![](/icons/ml.png) |
 |--------------------------------|---------------------|------------------------------------| ----------------------------------- |
 | [Quantum Languages & Semantics](#anchor_qlang) | [Quantum Software Development](#anchor_qlogic) | [Quantum Machine Learning & Applications](#anchor_qml) | [Quantum optimization & Applications](#anchor_qopt) |
 
@@ -128,16 +128,16 @@ Strada le Grazie 15
 ##
 
 ### <a id="anchor_qlang"></a> Quantum Languages & Semantics
-bla bla
+
 
 ### <a id="anchor_qlogic"></a> Quantum Software Development
-bla bla
+
 
 ### <a id="anchor_qml"></a> Quantum Machine Learning & Applications
-bla bla
+
 
 ### <a id="anchor_qopt"></a> Quantum optimization & Applications
-bla bla
+
 
 
 ## Contact  
