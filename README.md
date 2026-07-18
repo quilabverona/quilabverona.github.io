@@ -97,7 +97,20 @@ Available at [https://arxiv.org/abs/2209.11144](https://arxiv.org/abs/2209.11144
 - Giacomo Campagnari
 - Massimiliano Incudini
 
-## Announcements
+## Events
+
+### [EQAI 2026](https://eqai.eu/eqai-2026/)
+
+> 5th European Summer School on Quantum AI \
+> 31 August – 04 September, 2026 \
+> Lignano Sabbiadoro, Italy
+ 
+### [QTML 2026](https://qtml2026.nithecs.ac.za)
+
+> 10TH International Conference on Quantum Techniques in Machine Learning \
+> Bridging Quantum Computing and Machine Learning \
+> December 6 - 11, 2026 \
+> Jan Mouton Learning Centre, Stellenbosch University, South Africa
 
 ### Quilab Workshop - 7th June 2023 
 Department of Computer Science 
