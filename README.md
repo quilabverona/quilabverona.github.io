@@ -75,9 +75,7 @@ Available at [https://arxiv.org/abs/2209.11144](https://arxiv.org/abs/2209.11144
 
 - Alessandra Di Pierro (Prof - alessandra.dipierro@univr.it)
 - Claudia Daffara (Prof - claudia.daffara@univr.it)
-- Manuel Padovani (Researcher)
-- Andrea Masini (Prof)
-- Margherita Zorzi (Prof)
+- [Manuel Padovani](https://www.linkedin.com/in/manuel-padovani-b7840522a/) (Researcher)
 - Linda Zampieri (PhD)
 
 ### External members
