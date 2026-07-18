@@ -74,8 +74,7 @@ Available at [https://arxiv.org/abs/2209.11144](https://arxiv.org/abs/2209.11144
 ### Internal members 
 
 - Alessandra Di Pierro (Prof - alessandra.dipierro@univr.it)
-- Claudia Daffara (Prof)
-- [Nicola Assolini](https://nicolaassolini98.github.io/) (PhD)
+- Claudia Daffara (Prof - claudia.daffara@univr.it)
 - Manuel Padovani (Researcher)
 - Andrea Masini (Prof)
 - Margherita Zorzi (Prof)
@@ -83,20 +82,22 @@ Available at [https://arxiv.org/abs/2209.11144](https://arxiv.org/abs/2209.11144
 
 ### External members
 
-- Michele Grossi
-- Antonio Mandarino
-- David Windridge
-- Minh Ha Quang
-- Davide Pastorello
+- [Michele Grossi](https://michele-grossi.web.cern.ch)
+- [Antonio Mandarino](https://ictqt.ug.edu.pl/pages/people/)
+- [Minh Ha Quang]{https://aip.riken.jp/labs/math_intel/funct_anl_learn/}
+- [Davide Pastorello](https://www.linkedin.com/in/davide-pastorello-833299226/)
+- [David Windridge](https://www.mdx.ac.uk/about-us/our-people/staff-directory/prof-david-windridge/)
   
 
 ### Former members
 
-- Riccardo Mengoni
-- Francesco Martini
-- Giacomo Campagnari
-- Massimiliano Incudini
+- Riccardo Mengoni (PhD)
+- Francesco Martini (PhD)
+- Giacomo Campagnari (PhD)
+- Massimiliano Incudini (PhD)
+- [Nicola Assolini](https://nicolaassolini98.github.io/) (PhD)
 
+  
 ## Events
 
 ### [EQAI 2026](https://eqai.eu/eqai-2026/)
@@ -107,9 +108,15 @@ Available at [https://arxiv.org/abs/2209.11144](https://arxiv.org/abs/2209.11144
  
 ### [QTML 2026](https://qtml2026.nithecs.ac.za)
 
-> 10TH International Conference on Quantum Techniques in Machine Learning \
+> 10th International Conference on Quantum Techniques in Machine Learning \
 > Bridging Quantum Computing and Machine Learning \
 > December 6 - 11, 2026 \
+> Jan Mouton Learning Centre, Stellenbosch University, South Africa
+
+### [WQS 2026](https://data-cybernetics.com/en/wqs-2026)
+
+> 5th Workshop on Quantum Software \
+> 12 December, 2026 \
 > Jan Mouton Learning Centre, Stellenbosch University, South Africa
 
 ### Quilab Workshop - 7th June 2023 
