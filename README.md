@@ -125,7 +125,7 @@ Department of Computer Science
 Strada le Grazie 15
 37134 Verona
 
-##
+## Research
 
 ### <a id="anchor_qlang"></a> Quantum Languages & Semantics
 
