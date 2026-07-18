@@ -1,5 +1,9 @@
 # QUILAB Quantum Informatics Laboratory @ University of Verona
 
+## The Quantum Reality
+
+*A scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it* [Max Plank 1949].
+
 ## About us
 
 QUILAB is the quantum computing laboratory at the University of Verona, dedicated to pushing the boundaries of quantum computing 
@@ -9,7 +13,7 @@ quantum programming languages, and quantum software development.
 
 1. [Publications](#publications)
 2. [Members](#members)
-3. [Announcements](#announcements)
+3. [Events](#events)
 4. [Contact](#contact)
 
 | ![](icons/lambda.png)                          | ![](/icons/sw-dev.png)                         | ![](icons/kernel_trick.png)                                  |  ![](icons/ml.png) |
@@ -82,7 +86,7 @@ Available at [https://arxiv.org/abs/2209.11144](https://arxiv.org/abs/2209.11144
 
 - [Michele Grossi](https://michele-grossi.web.cern.ch)
 - [Antonio Mandarino](https://ictqt.ug.edu.pl/pages/people/)
-- [Minh Ha Quang]{https://aip.riken.jp/labs/math_intel/funct_anl_learn/}
+- [Minh Ha Quang](https://aip.riken.jp/labs/math_intel/funct_anl_learn/)
 - [Davide Pastorello](https://www.linkedin.com/in/davide-pastorello-833299226/)
 - [David Windridge](https://www.mdx.ac.uk/about-us/our-people/staff-directory/prof-david-windridge/)
   
