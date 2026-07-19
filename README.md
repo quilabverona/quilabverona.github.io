@@ -46,8 +46,21 @@ However, quantum-specific features, such as superposition, entanglement, the no-
 
 ### <a id="anchor_qml"></a> Quantum Machine Learning & Applications
 
+Machine learning entered theoretical computer science in the 1980s with the work of Leslie Valiant on “Probably Approximately Correct” (PAC) learning, building on earlier work of Vapnik and others in statistics, but adding computational complexity aspects. 
+Quantum Computing started in the 1980s as well (Manin, Feynman, Benioff, Deutsch). Both were very successful and naturally combined giving rise to Quantum Machine Learning. Early work in quantum machine learning was focused on speeding up linear algebra subroutines, commonly used in ML.
+Our research in this field started in 2017 with the study of quantum methods for classifications  based on the definition of quantum kernels for fault-tolerant, error-corrected devices and provable end-to-end speedups. The focus of our reserach is mainly on
+
+- Quantum kernel methods for graph-structured data and applications to problems in finance, bioinformatics and anomaly detection.
+
+- Quantum Data Encoding:
+Encoding and processing classical data in quantum systems — feature maps, data-loading strategies, and embeddings.
+
+- Variational Quantum Algorithms (also known as quantum neural networks for marketing reasons) and their application to classification problems. The main challenge lies in the dominance of classical deep neural networks and the limitations of VQA stemming from the barren plateau problem and the linearity of quantum system dynamics. 
+
 
 ### <a id="anchor_qopt"></a> Quantum optimization & Applications
+
+Our research focuses on the study of quantum algorithms for combinatorial optimization, portfolio optimization, and logistics problems based on Variational Quantum Algorithms such as QAOA, and other hybrid quantum-classical optimization methods for near-term devices.
 
 
 ## Publications  
