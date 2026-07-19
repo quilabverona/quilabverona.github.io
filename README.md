@@ -10,14 +10,44 @@ from both theoretical and applicative perspectives.
 Our research focuses on several topics including quantum machine learning, 
 quantum programming languages, and quantum software development.
 
-1. [Publications](#publications)
-2. [Members](#members)
-3. [Events](#events)
-4. [Contact](#contact)
+1. [Research](#research)
+2. [Publications](#publications)
+3. [Members](#members)
+4. [Events](#events)
+5. [Contact](#contact)
 
 | ![](icons/lambda.png)                             | ![](/icons/sw1.png)            | ![](icons/kernel_trick.png)                                            | ![](/icons/ml.png) |
 |--------------------------------|---------------------|------------------------------------| ----------------------------------- |
 | [Quantum Languages & Semantics](#anchor_qlang) | [Quantum Software Development](#anchor_qlogic) | [Quantum Machine Learning & Applications](#anchor_qml) | [Quantum optimization & Applications](#anchor_qopt) |
+
+
+## Research
+
+### <a id="anchor_qlang"></a> Quantum Languages & Semantics
+
+Programming a quantum computer, i.e., implementing quantum algorithms on a quantum processor-based computer architecture, is a task that can be addressed, just as for classical computers, at different levels of abstraction, from the high-level syntax and semantics to the logical circuits and the executable code.
+
+At the highest level of the construction of a quantum programming language is its abstraction via programming constructs, which model the sequencing and branching of instructions within a program, namely the program control flow. 
+Our research investigates the semantics of such constructs focusing the conceptual meaning of quantum-controlled branching and iteration. The question 
+
+> *What is the mathematical meaning of a quantum control flow with loops reflecting the coherent evolution of the quantum system implementing the program?* 
+
+is a crucial one for the definition of a denotational semantics, which,  just like the classical case, must capture the infinite computations but, differently from the classical case, must deal with the properties of the target physical device, i.e. a system behaving according to the laws of quantum mechanics.
+
+### <a id="anchor_qlogic"></a> Quantum Software Development
+
+Quantum software development is becoming a critical skill as quantum computing matures from theory to practice.
+The most urgent need for quantum software today is a systematic and unifying approach to quantum programming, which include as a fundamental step the development of formal methods for the analysis of program properties and for compiler optimisation.
+
+Our research in the area of quantum software development focuses on the static analysis of program properties for compiler optimisation. 
+These aspects are all very well developed in the area of classical programming languages and implementation, and we can take advantage of the skills acquired in the process of developing such advanced classical tools for devising an equally advanced quantum software.
+However, quantum-specific features, such as superposition, entanglement, the no-cloning theorem and implicit measurement pose unique challenges for reasoning about quantum programs, which makes a straightforward application of classical approaches not viable.
+
+
+### <a id="anchor_qml"></a> Quantum Machine Learning & Applications
+
+
+### <a id="anchor_qopt"></a> Quantum optimization & Applications
 
 
 ## Publications  
@@ -124,27 +154,6 @@ Available at [https://arxiv.org/abs/2209.11144](https://arxiv.org/abs/2209.11144
 Department of Computer Science 
 Strada le Grazie 15
 37134 Verona
-
-## Research
-
-### <a id="anchor_qlang"></a> Quantum Languages & Semantics
-
-Programming a quantum computer, i.e., implementing quantum algorithms on a quantum processor-based computer architecture, is a task that can be addressed, just as for classical computers, at different levels of abstraction, from the high-level syntax and semantics to the logical circuits and the executable code.
-
-At the highest level of the construction of a quantum programming language is its abstraction via programming constructs, which model the sequencing and branching of instructions within a program, namely the program control flow. 
-Our research investigates the semantics of such constructs focusing the conceptual meaning of quantum-controlled branching and iteration. The question 
-
-> *What is the mathematical meaning of a quantum control flow with loops reflecting the coherent evolution of the quantum system implementing the program?* 
-
-is a crucial one for the definition of a denotational semantics, which,  just like the classical case, must capture the infinite computations but, differently from the classical case, must deal with the properties of the target physical device, i.e. a system behaving according to the laws of quantum mechanics.
-
-### <a id="anchor_qlogic"></a> Quantum Software Development
-
-
-### <a id="anchor_qml"></a> Quantum Machine Learning & Applications
-
-
-### <a id="anchor_qopt"></a> Quantum optimization & Applications
 
 
 
