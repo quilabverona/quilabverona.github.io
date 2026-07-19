@@ -129,6 +129,14 @@ Strada le Grazie 15
 
 ### <a id="anchor_qlang"></a> Quantum Languages & Semantics
 
+Programming a quantum computer, i.e., implementing quantum algorithms on a quantum processor-based computer architecture, is a task that can be addressed, just as for classical computers, at different levels of abstraction, from the high-level syntax and semantics to the logical circuits and the executable code.
+
+At the highest level of the construction of a quantum programming language is its abstraction via programming constructs, which model the sequencing and branching of instructions within a program, namely the program control flow. 
+Our research investigates the semantics of such constructs focusing the conceptual meaning of quantum-controlled branching and iteration. The question 
+
+> *What is the mathematical meaning of a quantum control flow with loops reflecting the coherent evolution of the quantum system implementing the program?* 
+
+is a crucial one for the definition of a denotational semantics, which,  just like the classical case, must capture the infinite computations but, differently from the classical case, must deal with the properties of the target physical device, i.e. a system behaving according to the laws of quantum mechanics.
 
 ### <a id="anchor_qlogic"></a> Quantum Software Development
 
